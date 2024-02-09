@@ -1,0 +1,58 @@
+/* Partie css */
+body {
+	background: linear-gradient(to right, white, lightgrey, lightgrey, white);
+	}
+
+h1 {
+	color: darkgreen;
+	border-left: 4px solid lightgreen;
+	border-bottom: 4px solid lightgreen;
+	border-top: 4px solid transparent;
+	border-right: 4px solid transparent;
+	border-radius: 0 0 0 8px;
+	}
+
+strong {
+	color: red;
+	}
+
+img {
+	border: 2px dashed orange;
+	border-radius: 25px;
+	}
+	
+	body {
+	background: linear-gradient(to right, white, lightgrey, lightgrey, white);
+	}
+
+h1 {
+	color: darkgreen;
+	border-left: 4px solid lightgreen;
+	border-bottom: 4px solid lightgreen;
+	border-top: 4px solid transparent;
+	border-right: 4px solid transparent;
+	border-radius: 0 0 0 8px;
+	}
+
+strong {
+	color: red;
+	}
+
+img {
+	border: 2px dashed orange;
+	border-radius: 25px;
+	}
+
+img:hover{
+	transform: translate(-100px, 0);
+	transition: 2s;
+	}
+	
+	p {                                 /* Mise en forme des paragraphes */
+    width : 360px;                  /* Largeur du contenu */
+    height : 100px;                 /* Hauteur du contenu */
+    border : 0px none #000000;      /* Épaisseur - Apparence - Couleur */
+    padding : 0px;                  /* Espace "intérieur" */
+    margin : 0px;                   /* Espace "extérieur" */
+    }
+	
